@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chinmay.
 - 👀 I’m interested in problem solving and web development..
-- 🌱 I’m currently learning DSA and javascript..
+- 🌱 I’m currently learning DSA and MERN..
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
